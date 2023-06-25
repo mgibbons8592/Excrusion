@@ -23,3 +23,38 @@ a:link {
 a:visited {
     color: aquamarine;
 }
+
+.video {
+    text-align: center;
+}
+
+.guide {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.bio {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.camp {
+    text-align: center;
+}
+
+.icon {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.copywright {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+    padding-top: 5px;
+}
