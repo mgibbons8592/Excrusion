@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+.discover {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.download {
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+}
+
+a:link {
+    color: aquamarine;
+}
+
+a:visited {
+    color: aquamarine;
+}
